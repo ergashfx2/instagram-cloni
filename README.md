@@ -21,3 +21,14 @@ Open cmd and write this code
   python manage.py runserver
 ```
 
+## Packages Used
+
+- Django
+- python-decouple
+- psycopg2
+- djangorestframework
+- pillow
+- djangorestframework-simplejwt
+- phonenumbers
+- twilio
+
